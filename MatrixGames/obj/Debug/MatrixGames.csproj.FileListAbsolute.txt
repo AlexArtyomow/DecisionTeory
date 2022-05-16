@@ -1,0 +1,12 @@
+C:\Users\Sanya\Documents\C#\ТПР\Лабы\MatrixGames\MatrixGames\bin\Debug\MatrixGames.exe.config
+C:\Users\Sanya\Documents\C#\ТПР\Лабы\MatrixGames\MatrixGames\bin\Debug\MatrixGames.exe
+C:\Users\Sanya\Documents\C#\ТПР\Лабы\MatrixGames\MatrixGames\bin\Debug\MatrixGames.pdb
+C:\Users\Sanya\Documents\C#\ТПР\Лабы\MatrixGames\MatrixGames\obj\Debug\MatrixGames.csprojAssemblyReference.cache
+C:\Users\Sanya\Documents\C#\ТПР\Лабы\MatrixGames\MatrixGames\obj\Debug\MatrixGames.Properties.Resources.resources
+C:\Users\Sanya\Documents\C#\ТПР\Лабы\MatrixGames\MatrixGames\obj\Debug\MatrixGames.csproj.GenerateResource.cache
+C:\Users\Sanya\Documents\C#\ТПР\Лабы\MatrixGames\MatrixGames\obj\Debug\MatrixGames.csproj.CoreCompileInputs.cache
+C:\Users\Sanya\Documents\C#\ТПР\Лабы\MatrixGames\MatrixGames\obj\Debug\MatrixGames.exe
+C:\Users\Sanya\Documents\C#\ТПР\Лабы\MatrixGames\MatrixGames\obj\Debug\MatrixGames.pdb
+C:\Users\Sanya\Documents\C#\ТПР\Лабы\MatrixGames\MatrixGames\obj\Debug\MatrixGames.FormGameInPureStrategies.resources
+C:\Users\Sanya\Documents\C#\ТПР\Лабы\MatrixGames\MatrixGames\obj\Debug\MatrixGames.FormEnterMatrixSize.resources
+C:\Users\Sanya\Documents\C#\ТПР\Лабы\MatrixGames\MatrixGames\obj\Debug\MatrixGames.csproj.ResolveComReference.cache
